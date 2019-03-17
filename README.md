@@ -1,5 +1,6 @@
 # mooqita-random-challenge
-Challenge activity by Mooqita from the Linux Foundation LFS101x course - brief below
+Challenge activity by Mooqita from the Linux Foundation LFS101x course - brief below.  This is all just a test exercise but seems no means to share a private repo on GitHub other than as collaborator so, if you find this by chance then, hello!
+
 
 Write a script using /bin/bash that does the following:
 
